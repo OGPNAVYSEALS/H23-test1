@@ -1,1 +1,1 @@
-print("i dont like KY5")
+print("i like OGP")
